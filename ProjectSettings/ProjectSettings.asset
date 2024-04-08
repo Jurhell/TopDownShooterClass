@@ -881,11 +881,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 7bfa342d-c4a4-4d02-ab72-0f6b4f023070
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: TopDownShooterClass
+  organizationId: schmepp
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
